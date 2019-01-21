@@ -27,7 +27,7 @@ class SetTest extends \PHPUnit\Framework\TestCase
         $collection = new ScalarCollection;
         $index = $collection->add(1);
 
-        $this->assertIsArray($collection->all());
+        $this->assertTrue(is_array($collection->all()));
         $this->assertArrayHasKey($index, $collection->all());
     }
 
