@@ -14,8 +14,8 @@
     "phpunit/phpunit": "7.5.2"
   },
   "autoload": {
-    "psr-0": {
-      "EXB\\Component\\Collection": "src/"
+    "psr-4": {
+      "EXB\\Collection\\": "src/"
     }
   }
 }
