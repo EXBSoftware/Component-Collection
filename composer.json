@@ -1,0 +1,21 @@
+{
+  "name": "exbsoftware/collection",
+  "description": "EXB Software Collection Component",
+  "authors": [
+    {
+      "name": "Emiel van Goor",
+      "email": "e.goor@exb-software.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "7.5.2"
+  },
+  "autoload": {
+    "psr-0": {
+      "EXB\\Component\\Collection": "src/"
+    }
+  }
+}
