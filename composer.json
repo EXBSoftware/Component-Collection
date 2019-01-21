@@ -1,6 +1,7 @@
 {
   "name": "exbsoftware/collection",
-  "description": "EXB Software Collection Component",
+  "description": "Collection Component",
+  "license": "gplv3",
   "authors": [
     {
       "name": "Emiel van Goor",
