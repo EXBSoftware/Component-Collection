@@ -18,5 +18,8 @@
     "psr-4": {
       "EXB\\Collection\\": "src/"
     }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
   }
 }
