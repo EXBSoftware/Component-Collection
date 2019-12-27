@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/EXBSoftware/Component-Collection.svg?branch=master)](https://travis-ci.com/EXBSoftware/Component-Collection)
+[![Actions Status](https://github.com/EXBSoftware/Component-Collection/workflows/tests/badge.svg)](https://github.com/EXBSoftware/Component-Collection/actions)
